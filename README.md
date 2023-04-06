@@ -1,3 +1,11 @@
+# About Project
+This project is a landing page design, inspired by GPT3 website!\
+This project is responsice on all devices.
+## In This Project I Used:
+-React JS for creating the UI.\
+-Css 3 for styling.\
+-React-icons package for icons.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
